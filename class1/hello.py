@@ -8,3 +8,4 @@ print('hellohello')     # 終端機 terminal 輸出文字，文字怎麼打？ -
 # 整行貼上： cmd + v (游標不選取)
 # 復原上一動： cmd + z
 # 返回下一動： cmd + shift + z
+# 整行移動：option + up/down
