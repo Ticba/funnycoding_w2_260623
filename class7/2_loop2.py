@@ -83,3 +83,14 @@ for idx in range(len(inputList)):
     n = inputList[idx]
     if n == target:
         print(idx)
+
+
+# for 可以迭代字串
+
+for c in 'abcde':   # 'a', 'b', 'c', 'd', 'e'
+    print(c)
+    # 1. 印出 a
+    # 2. 印出 b
+    # 3. 印出 c
+    # 4. 印出 d
+    # 5. 印出 e
